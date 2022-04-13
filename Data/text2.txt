@@ -1,0 +1,1 @@
+A database can be viewed as a repository of data that is defined once and then accessed by various users as shown in the figure below:

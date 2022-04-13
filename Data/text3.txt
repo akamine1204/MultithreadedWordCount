@@ -1,0 +1,1 @@
+Database properties. A database has the following properties: A database represents some aspect of the real world, sometimes called the mini-world or the universe of discourse (UoD). Changes to the mini-world are reflected in the database.

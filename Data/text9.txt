@@ -1,0 +1,2 @@
+If an organization wants to adopt the database approach, then it needs a collection of programs that enable the users of the organization to create and maintain databases and control all access to them. This is achieved using a database management system (DBMS). The primary goal of a DBMS is to provide an environment that is both convenient and efficient for users to retrieve and store information.
+

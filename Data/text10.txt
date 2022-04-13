@@ -1,0 +1,1 @@
+Furthermore, in order to access the database, we use application programs which send queries (requests) for data to the DBMS. A query causes some data to be retrieved.To wrap up our discussion on basic terms, we call the database together with DBMS software a database system.

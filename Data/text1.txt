@@ -1,0 +1,1 @@
+What is a database? A database is a shared collection of related data. By data, we mean known facts that can be recorded and that have implicit meaning. For example, consider the names, telephone numbers, and addresses of the people you know.

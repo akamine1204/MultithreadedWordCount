@@ -1,0 +1,2 @@
+A database is a logically coherent collection of data with some inherent meaning. A random assortment of data cannot correctly be called a database. For example, a list of random names cannot be considered a database but if we also note down those peoples’ addresses and phone numbers, then the data will have some inherent meaning (i.e. it will be an address book).
+

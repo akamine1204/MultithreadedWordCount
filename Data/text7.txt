@@ -1,0 +1,2 @@
+Examples of databases A database can be of any size and complexity. Let’s consider the previous example of the list of names and addresses. This database may consist of only a few hundred entries with simple text information.
+

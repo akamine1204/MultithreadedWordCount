@@ -1,0 +1,1 @@
+A database is designed, built, and populated with data for a specific purpose. It has an intended group of users and some preconceived applications in which these users are interested. For example, a department in a university might be interested in gathering data regarding the students’ GPA so that they can finalize the dean’s honor list.
